@@ -5,16 +5,18 @@ html,body{
 }
 .box1 .box-swp{
     background-image:url("../image/zgf.jpg");
-    background-size: contain;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 .box2 .box-swp{
     background-image:url("../image/os.jpg");
-    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 .box3 .box-swp{
     background-image:url("../image/dzh.jpg");
     background-size: 100% 100%;
+    background-attachment: fixed;
 }
 .box1 h1{
     color:#fff;
